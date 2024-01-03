@@ -11,8 +11,8 @@ phoneRegex = re.compile(r'''
 ((\d\d\d)|(\(\d\d\d\)))?	# area code (optional)
 (\s|-)						# first separator
 \d\d\d 						# first 3 digits
-- 							# separator
-\d\d\d\d 					# last 4 digits
+-							# separator
+\d\d\d\d					# last 4 digits
 (((ext(\.)?\s)|x) 			# extension word-part (optional)
  (\d{2,5}))? 				# extension number-part (optional)
 )
@@ -22,9 +22,9 @@ phoneRegex = re.compile(r'''
 emailRegex = re.compile(r'''
 #  some.+_thing@(\d{2,5})?.com
 						
-[a-zA-Z0-9_.+]+		# name part
-@					# @ symbol
-[a-zA-Z0-9_.+]+		# domain name part
+[a-zA-Z0-9_.+]+			# name part
+@						# @ symbol
+[a-zA-Z0-9_.+]+			# domain name part
 ''', re.VERBOSE)
 
 # Get the text off the clipboard

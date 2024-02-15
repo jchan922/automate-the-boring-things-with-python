@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/justinchan/Desktop/Repos/automate-the-boring-things-with-python/chapter-12-debugging/traceback-module.py", line 5, in <module>
+    raise Exception('This is the error message')
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/Users/justinchan/Desktop/Repos/automate-the-boring-things-with-python/chapter-12-debugging/traceback-module.py", line 5, in <module>
+    raise Exception('This is the error message')
+Exception: This is the error message
+

@@ -1,0 +1,45 @@
+2024-02-15 12:15:11,421 - DEBUG - Start of program
+2024-02-15 12:15:11,421 - DEBUG - Start of factorial(5)
+2024-02-15 12:15:11,421 - DEBUG - i is 1, total is 1
+2024-02-15 12:15:11,421 - DEBUG - i is 2, total is 2
+2024-02-15 12:15:11,421 - DEBUG - i is 3, total is 6
+2024-02-15 12:15:11,421 - DEBUG - i is 4, total is 24
+2024-02-15 12:15:11,422 - DEBUG - i is 5, total is 120
+2024-02-15 12:15:11,422 - DEBUG - Return value is 120
+2024-02-15 12:15:11,422 - DEBUG - End of program
+2024-02-15 12:21:03,983 - DEBUG - Start of program
+2024-02-15 12:21:03,984 - DEBUG - Start of factorial(5)
+2024-02-15 12:21:03,984 - DEBUG - i is 1, total is 1
+2024-02-15 12:21:03,984 - DEBUG - i is 2, total is 2
+2024-02-15 12:21:03,984 - DEBUG - i is 3, total is 6
+2024-02-15 12:21:03,984 - DEBUG - i is 4, total is 24
+2024-02-15 12:21:03,984 - DEBUG - i is 5, total is 120
+2024-02-15 12:21:03,985 - DEBUG - Return value is 120
+2024-02-15 12:21:03,985 - DEBUG - End of program
+2024-02-15 12:21:27,211 - DEBUG - Start of program
+2024-02-15 12:21:27,212 - DEBUG - Start of factorial(5)
+2024-02-15 12:21:27,212 - DEBUG - i is 1, total is 1
+2024-02-15 12:21:27,212 - DEBUG - i is 2, total is 2
+2024-02-15 12:21:27,212 - DEBUG - i is 3, total is 6
+2024-02-15 12:21:27,213 - DEBUG - i is 4, total is 24
+2024-02-15 12:21:27,213 - DEBUG - i is 5, total is 120
+2024-02-15 12:21:27,213 - DEBUG - Return value is 120
+2024-02-15 12:21:27,213 - DEBUG - End of program
+2024-02-15 12:21:36,607 - DEBUG - Start of program
+2024-02-15 12:21:36,607 - DEBUG - Start of factorial(5)
+2024-02-15 12:21:39,877 - DEBUG - i is 1, total is 1
+2024-02-15 12:22:21,760 - DEBUG - Start of program
+2024-02-15 12:22:21,761 - DEBUG - Start of factorial(5)
+2024-02-15 12:22:21,761 - DEBUG - i is 1, total is 1
+2024-02-15 12:22:21,761 - DEBUG - i is 2, total is 2
+2024-02-15 12:22:21,761 - DEBUG - i is 3, total is 6
+2024-02-15 12:22:21,761 - DEBUG - i is 4, total is 24
+2024-02-15 12:22:21,762 - DEBUG - i is 5, total is 120
+2024-02-15 12:22:21,762 - DEBUG - Return value is 120
+2024-02-15 12:22:21,762 - DEBUG - End of program
+2024-02-15 12:22:28,286 - DEBUG - Start of program
+2024-02-15 12:22:28,287 - DEBUG - Start of factorial(5)
+2024-02-15 12:22:34,028 - DEBUG - i is 1, total is 1
+2024-02-15 12:22:35,051 - DEBUG - i is 2, total is 2
+2024-02-15 12:22:35,872 - DEBUG - i is 3, total is 6
+2024-02-15 12:22:38,994 - DEBUG - i is 4, total is 24

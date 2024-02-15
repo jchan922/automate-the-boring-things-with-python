@@ -14,14 +14,14 @@ logging.basicConfig(filename=f'{cwd}/logging-log.txt', level=logging.DEBUG, form
 logging.debug('Start of program')
 
 def factorial(n):
-	logging.debug('Start of factorial(%s)' % (n))
+	logging.debug(f'Start of factorial({n})')
 	total = 1
 	
 	for i in range(1, n+1):
 		total *= i
-		logging.debug('i is %s, total is %s' % (i, total))
+		logging.debug(f'i is {i}, total is {total}')
 
-	logging.debug('Return value is %s', total)
+	logging.debug(f'Return value is {total}')
 	return total
 
 print(factorial(5))
